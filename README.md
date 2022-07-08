@@ -2,3 +2,5 @@
 
 Emiliano Sebastian
 Martin Segade
+Sofia Diaz Valdez
+
